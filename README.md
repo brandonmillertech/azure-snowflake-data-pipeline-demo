@@ -17,12 +17,18 @@ The goal of this project is to demonstrate end-to-end data pipelines, automation
 ## Project Structure
 
 ```text
-├── terraform/          # Infrastructure deployment code
-├── sql/                # Snowflake DDL and pipeline scripts
-├── python/             # Data processing and extraction scripts
-└── docs/               # Architecture diagrams and guide notes
-
-├── docs/
-│       ├── snowflake-deac01.md     # Snowflake DEA-C01 
-│       ├── snowflake-cofc02.md     # Snowflake COF-C02 
-│       └── azure-data-ai.md        # Microsoft Azure （AI-102, AI-900, DP-900, DP-300, DP-600）
+├── terraform/
+│   ├── azure-core-infrastructure.tf
+│   └── snowflake-data-warehouse.tf
+├── sql/
+│   ├── dea_c01_pipeline_setup.sql
+│   ├── dp300_database_performance.sql
+│   └── dp600_fabric_analytics.sql
+├── python/
+│   ├── ai102_cognitive_enrichment.py
+│   ├── ai900_ml_inference_demo.py
+│   └── dp900_data_exploration.py
+└── docs/
+    ├── architecture_overview.md
+    ├── cofc02_cost_optimization.md
+    └── study_notes_index.md
