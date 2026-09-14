@@ -21,3 +21,8 @@ The goal of this project is to demonstrate end-to-end data pipelines, automation
 ├── sql/                # Snowflake DDL and pipeline scripts
 ├── python/             # Data processing and extraction scripts
 └── docs/               # Architecture diagrams and guide notes
+
+├── docs/
+│       ├── snowflake-deac01.md     # Snowflake DEA-C01 
+│       ├── snowflake-cofc02.md     # Snowflake COF-C02 
+│       └── azure-data-ai.md        # Microsoft Azure （AI-102, AI-900, DP-900, DP-300, DP-600）
