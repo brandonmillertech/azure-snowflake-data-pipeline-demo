@@ -1,3 +1,9 @@
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Azure](https://img.shields.io/badge/cloud-Azure-0089D6)
+![Snowflake](https://img.shields.io/badge/data-Snowflake-29B5E8)
+![Python](https://img.shields.io/badge/python-3.10%2B-blue)
+
 # azure-snowflake-data-pipeline-demo
 A structured reference architecture for integrating Microsoft Azure services with Snowflake data warehouse.
 
@@ -6,6 +12,8 @@ This repository provides a foundational reference for integrating Microsoft Azur
 ## Overview
 
 The goal of this project is to demonstrate end-to-end data pipelines, automation scripts, and configuration templates for cloud data architecture.
+
+
 
 ### Key Components
 
