@@ -32,3 +32,22 @@ The goal of this project is to demonstrate end-to-end data pipelines, automation
     ├── architecture_overview.md
     ├── cofc02_cost_optimization.md
     └── study_notes_index.md
+
+```
+
+<br>
+
+---
+
+<br>
+
+
+## 📚 Technical References & Certification Guides
+
+For detailed deployment blueprints, architecture references, and cloud certification preparation paths relevant to this technical stack:
+
+- 📊 **Microsoft Fabric Analytics Engineering**: [DP-600 Study Guide & Architecture Notes](https://rentry.co/microsoft-fabric-dp600-guide-2026)[cite: 1] | [Official Exam Info](https://learn.microsoft.com/en-us/credentials/certifications/exams/dp-600/)
+- 🛢️ **Azure SQL & Database Administration**: [DP-300 Exam Prep & Best Practices](https://rentry.co/dp300-exam-prep-2026)[cite: 1] | [Official Exam Info](https://learn.microsoft.com/en-us/credentials/certifications/exams/dp-300/)
+-  Snowflake Documentation: [Azure Integration Best Practices](https://docs.snowflake.com/en/user-guide/data-load-azure-config)
+
+Detailed learning resources and official links can be found in [`docs/certification-and-resources.md`](./docs/certification-and-resources.md).
